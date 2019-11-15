@@ -28,7 +28,7 @@ table th {
 body
 {
   background-color: red;
-  background-image: linear-gradient(red, orange, yellow, green);
+  background-image: linear-gradient(red, yellow);
   background-repeat: none;
 }
 ol
